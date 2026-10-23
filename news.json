@@ -1,5 +1,13 @@
 [
   {
+    "id": "2026-10-22-v1.2.5",
+    "date": "2026-10-22",
+    "title": "Printer Buddy 1.2.5: drawers, dev builds and Save config",
+    "body": "New ☰ drawers: on a printer page for restarts, host power and services; on the home page for restarting Printer Buddy, its services and Updates (moved out of Settings). Hold a part's name in Updates to put just that part on dev/beta builds. Klipper errors and warnings now show on the printer page, a Save config button appears after calibrations, console arrow keys go through history again and Collapse moved to the bottom of the sidebar. New docs site too.",
+    "link": "https://sterling5241.github.io/printer-buddy-docs",
+    "level": "update"
+  },
+  {
     "id": "2026-10-21-v2",
     "date": "2026-10-21",
     "title": "Printer Buddy v2.0 is out 🎉",
